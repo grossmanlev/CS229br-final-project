@@ -14,5 +14,7 @@ TODOs:
     c) Dispersal
     d) Male-Male Competition
     e) Female-Female Competition
-2) Extend, alter the model??
+2) Extend, alter the model
+    a) Harem-based model -- where a selected male each round mates with all
+       females.  Or, variants where selected male for each breeding "patch"
 """
